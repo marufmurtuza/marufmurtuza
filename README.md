@@ -8,7 +8,7 @@
 <p align="center">Member at <a href="https://github.com/KnightSquad">Knight Squad</a> </p> 
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=gotham&langs_count=6&layout=compact"><img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=radical&langs_count=6&layout=compact" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=gotham&langs_count=6&layout=compact"><img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=gotham&langs_count=6&layout=compact" /></a>
  </p>
 
 
