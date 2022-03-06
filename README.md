@@ -29,10 +29,10 @@
   <a href="https://kali.org"><img src="https://img.icons8.com/color/100/000000/kali-linux.png" alt="kali" width="40" height="40"/>
   <a href="https://manjaro.org"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" alt="manjaro" width="40" height="40"/>
   <a href="https://autopsy.com"><img src="https://www.sleuthkit.org/picts/renzik_sm.jpg" alt="autopsy" width="40" height="40"/>
-  <a href="https://rada.re"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Radare2.svg" alt="radare2" width="40" height="40"/>
+  <a href="https://rada.re"><img src="https://tryhackme-images.s3.amazonaws.com/room-icons/42a9330f4d6d6b84463cfa30d0563a04.png" alt="radare2" width="40" height="40"/>
   <a href="cutter.re"><img src="https://cutter.re/assets/images/cutter-small.svg" alt="cutter" width="40" height="40"/>
   <a href="https://ghidra-sre.org"><img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="ghidra" width="40" height="40"/>
-    <a href="https://gnu.org"><img src="https://www.gnu.org/savannah-checkouts/gnu/gdb/images/archer.svg" alt="gdb" width="40" height="40"/>
+  <a href="https://gnu.org"><img src="https://www.gnu.org/savannah-checkouts/gnu/gdb/images/archer.svg" alt="gdb" width="40" height="40"/>
   <a href="https://mips.com"><img src="https://www.mips.com/wp-content/uploads/2017/09/mips-logo-blue.svg" alt="mips" width="40" height="40"/>
 
     
