@@ -35,7 +35,7 @@
   <a href="https://ghidra-sre.org"><img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="ghidra" width="40" height="40"/><br>
   <a href="https://gnu.org"><img src="https://www.gnu.org/savannah-checkouts/gnu/gdb/images/archer.svg" alt="gdb" width="40" height="40"/>
   <a href="https://mips.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE1KoDnVtIBvouq3Nc8QQuFvZrItRU1HVl-A&usqp=CAU" alt="mips" width="40" height="40"/> 
-  <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Windows/windows.svg" alt="windows" width="40" height="40"/><br>
+  <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Windows/windows.svg" alt="windows" width="40" height="40"/>
   <a href="https://www.raspberrypi.org/software/operating-systems"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Raspberry%20Pi/raspberry_pi.svg" alt="raspberrypi" width="40" height="40"/>
   <a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
   <a href="https://br.wordpress.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/>
