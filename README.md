@@ -45,7 +45,7 @@
 <h2>🔥 Streak Stats</h2>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=marufmurtuza&theme=dracula" alt="marufmurtuza" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=marufmurtuza&theme=gotham" alt="marufmurtuza" />
 </p>
 
 <h2>📊 Stats</h2>
@@ -56,7 +56,7 @@
 
 
 <p align="center">
-<a  href="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=radical"><img alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=radical" /></a>
+<a  href="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=radical"><img alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=gotham" /></a>
   
 </p>
 
