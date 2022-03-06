@@ -8,14 +8,8 @@
 <p align="center">Member at <a href="https://github.com/KnightSquad">Knight Squad</a> </p> 
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ryihan&theme=radical&langs_count=6&layout=compact"><img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=radical&langs_count=6&layout=compact" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=radical&langs_count=6&layout=compact"><img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=radical&langs_count=6&layout=compact" /></a>
  </p>
-<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=marufmurtuza&label=Profile%20views&color=0e75b6&style=flat" alt="ryihan" /></h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/marufmurtuza/">
-    <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
-  </a>
-</p>
 
 
 <h2>👩‍💻 Skills</h2>
@@ -61,7 +55,10 @@
 <h2>⭐ Badges</h2>
 
 <p align="center">
-   <script src="https://tryhackme.com/badge/336613"></script>
+ <a href="https://tryhackme.com/p/marufmurtuza">
+    <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe Profile" height="30" width="30"/>
+  </a>
+   <script src="https://tryhackme.com/badge/336613" height="30" width="30"></script>
    <script src="https://www.hackthebox.eu/badge/498360"></script>
 
 </p>
