@@ -15,6 +15,7 @@
 <h2>👩‍💻 Skills</h2>
 
 <p align="center">
+  <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" alt="bash" width="40" height="40"/>
   <a href="https://www.python.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
   <a href="https://www.java.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Java/java.png" alt="java" width="40" height="40"/>
   <a href="https://www.learn-c.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C/c.svg" alt="c" width="40" height="40"/>
