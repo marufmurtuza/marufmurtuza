@@ -51,7 +51,7 @@
 <h2>📊 Stats</h2>
 
 <p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=marufmurtuza&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=marufmurtuza&theme=rogue"/>
 </p>
 
 
@@ -67,6 +67,6 @@
    <img src="https://tryhackme-badges.s3.amazonaws.com/marufmurtuza.png" alt="TryHackMe"><br>
    <img src="http://www.hackthebox.eu/badge/image/498360" alt="Hack The Box"> 
 </div>
-   
+
  
 
