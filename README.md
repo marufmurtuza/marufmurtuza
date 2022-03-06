@@ -26,9 +26,15 @@
   <a href="https://gitlab.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/GitLab/gitlab.svg" alt="gitlab" width="40" height="40"/>
   <a href="https://ubuntu.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Ubuntu/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
   <a href="https://debian.org"><img src="https://www.debian.org/logos/openlogo-nd.svg" alt="debian" width="40" height="40"/>
-    <a href="https://kali.org"><img src="https://img.icons8.com/color/100/000000/kali-linux.png" alt="kali" width="40" height="40"/>
-      <a href="https://manjaro.org"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" alt="manjaro" width="40" height="40"/>
-      <a href="https://autopsy.com"><img src="https://www.sleuthkit.org/picts/renzik_sm.jpg" alt="autopsy" width="40" height="40"/>
+  <a href="https://kali.org"><img src="https://img.icons8.com/color/100/000000/kali-linux.png" alt="kali" width="40" height="40"/>
+  <a href="https://manjaro.org"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" alt="manjaro" width="40" height="40"/>
+  <a href="https://autopsy.com"><img src="https://www.sleuthkit.org/picts/renzik_sm.jpg" alt="autopsy" width="40" height="40"/>
+  <a href="https://rada.re"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Radare2.svg" alt="radare2" width="40" height="40"/>
+  <a href="cutter.re"><img src="https://cutter.re/assets/images/cutter-small.svg" alt="cutter" width="40" height="40"/>
+  <a href="https://ghidra-sre.org"><img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="ghidra" width="40" height="40"/>
+    <a href="https://gnu.org"><img src="https://www.gnu.org/savannah-checkouts/gnu/gdb/images/archer.svg" alt="gdb" width="40" height="40"/>
+  <a href="https://mips.com"><img src="https://www.mips.com/wp-content/uploads/2017/09/mips-logo-blue.svg" alt="mips" width="40" height="40"/>
+
     
   <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Windows/windows.svg" alt="windows" width="40" height="40"/>
   <a href="https://www.raspberrypi.org/software/operating-systems"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Raspberry%20Pi/raspberry_pi.svg" alt="raspberrypi" width="40" height="40"/>
