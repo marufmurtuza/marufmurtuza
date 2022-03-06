@@ -55,8 +55,8 @@
 <h2>⭐ Badges</h2>
 
  <div align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/marufmurtuza.png" alt="TryHackMe">
-    <img src="http://www.hackthebox.eu/badge/image/498360" alt="Hack The Box"> 
+   <img src="https://tryhackme-badges.s3.amazonaws.com/marufmurtuza.png" alt="TryHackMe">
+   <img src="http://www.hackthebox.eu/badge/image/498360" alt="Hack The Box"> 
 </div>
    
  
