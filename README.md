@@ -51,7 +51,7 @@
 <h2>📊 Stats</h2>
 
 <p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=marufmurtuza&theme=gotham"/>
+<a href="https://github.com/marufmurtuza/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=marufmurtuza&theme=gotham"/>
 </p>
 
 
