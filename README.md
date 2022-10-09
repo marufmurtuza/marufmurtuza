@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3 align="center">A cybersecurity enthusiast and tech freak.</h3>
+<h3 align="center">An infosec enthusiast and tech freak.</h3>
 
 <p align="center">Member at <a href="https://knightsquad.org">Knight Squad</a> </p> 
 
