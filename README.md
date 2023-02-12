@@ -5,7 +5,6 @@
 
 <h3 align="center">An infosec enthusiast and tech freak.</h3>
 
-<p align="center">Member at <a href="https://knightsquad.org">Knight Squad</a> </p> 
 <p align="center">Website: <a href="https://marufmurtuza.com">marufmurtuza.com</a> </p>
 
 <p align="center">
