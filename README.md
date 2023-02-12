@@ -1,5 +1,5 @@
 <h1 align="center">
-<div class="tenor-gif-embed" data-postid="22257481" data-share-method="host" data-aspect-ratio="1.80791" data-width="100%"><a href="https://tenor.com/view/hi-hello-gif-22257481">Hi Hello GIF</a>from <a href="https://tenor.com/search/hi-gifs">Hi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://tenor.com/view/hi-hello-gif-22257481">
   Hey, It's Maruf here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
