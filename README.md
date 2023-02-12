@@ -1,7 +1,7 @@
 <h1 align="center">
 <a>
-  <img src="[https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif](https://media.tenor.com/BScnnlUpwmwAAAAC/hi-hello.gif)" width="200" height="80"/>&nbsp;
- </a>
+  <img src="https://media.tenor.com/BScnnlUpwmwAAAAC/hi-hello.gif" width="200" height="80"/>;
+ </a><br>
   Hey, It's Maruf here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
