@@ -61,9 +61,9 @@
 <a  href="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=radical"><img alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=gotham" /></a>
   
 </p>
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-<h2>📊 Contribution</h2>
-![Contribution](https://activity-graph.herokuapp.com/graph?username=marufmurtuza&theme=gotham&hide_border=true&area=true)
+<h2></h2>
+<a href="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"></a>
+<h2></h2>
 <h2>⭐ Badges</h2>
 
  <div align="center">
