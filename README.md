@@ -8,18 +8,15 @@
 <h3 align="center">An infosec enthusiast and tech freak.</h3>
 
 <p align="center">Website: <a href="https://marufmurtuza.com">marufmurtuza.com</a> </p>
-<h2></h2>
-
 <div align="center">
-<center>
 <a href="https://twitter.com/marufmurtuza" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marufmurtuza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/users/806345024631078953" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/its.marufmurtuza" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-</center>
-
+</div>
+<h2></h2>
+<div align="center">
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 <h2></h2>
