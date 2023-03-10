@@ -9,6 +9,7 @@
 
 <p align="center">Website: <a href="https://marufmurtuza.com">marufmurtuza.com</a> </p>
 <h2></h2>
+<center>
 <div>
 
 <a href="https://twitter.com/marufmurtuza" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -20,7 +21,7 @@
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
+</center>
 <h2></h2>
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=gotham&langs_count=6&layout=compact"><img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=gotham&langs_count=6&layout=compact" /></a>
