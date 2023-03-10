@@ -1,4 +1,5 @@
 <h1 align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <a>
   <img src="https://media.tenor.com/54mjjpuowCgAAAAC/ninjala-jane.gif" width="200" height="80">
  </a><br>
@@ -62,7 +63,7 @@
 <a  href="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=radical"><img alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=gotham" /></a>
   
 </p>
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <h2>⭐ Badges</h2>
 
@@ -71,5 +72,5 @@
    <img src="http://www.hackthebox.eu/badge/image/498360" alt="Hack The Box"> 
 </div>
 
- 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
