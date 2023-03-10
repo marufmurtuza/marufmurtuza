@@ -1,8 +1,6 @@
 <h1 align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-<a>
-  <img src="https://media.tenor.com/54mjjpuowCgAAAAC/ninjala-jane.gif" width="200" height="80">
- </a><br>
+<br>
   Hey, It's Maruf here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
@@ -64,7 +62,8 @@
   
 </p>
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
+<h2>📊 Contribution</h2>
+![Contribution](https://activity-graph.herokuapp.com/graph?username=marufmurtuza&theme=gotham&hide_border=true&area=true)
 <h2>⭐ Badges</h2>
 
  <div align="center">
