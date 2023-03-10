@@ -76,7 +76,10 @@
   
 </p>
 <h2></h2>
-<a href="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"></a>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{marufmurtuza}/count.svg" /></p> 
+<br></div>
 <h2></h2>
 <h2>⭐ Badges</h2>
 
