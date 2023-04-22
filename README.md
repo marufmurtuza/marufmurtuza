@@ -68,7 +68,7 @@
 <h2>📊 Stats</h2>
 
 <p align="center">
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&bg_color=0c0a10&color=99d1ce&line=99d1ce&point=00ff80&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&bg_color=0c0a10&color=99d1ce&line=99d1ce&point=00ff80&area=true&hide_border=true"/></a>
 </p>
 
 
