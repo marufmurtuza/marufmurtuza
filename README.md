@@ -73,7 +73,8 @@ __Version Control:__
 
  __Code Editor:__  
 
-<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/VScode/visualstudio_code.svg"> <img src = "https://cdn.worldvectorlogo.com/logos/sublime-text.svg" height = "30" /><br><br> <img src = "https://seeklogo.com/images/N/notepad-logo-B36F48AC8C-seeklogo.com.png" height = "30" />
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/VScode/visualstudio_code.svg"> <img src = "https://cdn.worldvectorlogo.com/logos/sublime-text.svg" height = "30" /> <img src = "https://seeklogo.com/images/N/notepad-logo-B36F48AC8C-seeklogo.com.png" height = "30" /><br><br>
+  
 __Reverse Engineering:__
 
 <img src = "https://ghidra-sre.org/images/GHIDRA_1.png" height="30"> <img src = "https://cutter.re/assets/images/cutter-small.svg" height="30"> <img src = "https://gitlab.com/uploads/-/system/project/avatar/11904140/kali-radare2.png" height="30"> <img src = "https://binary.ninja/icons/android-chrome-512x512.png" height = "30"/> <img src = "https://raw.githubusercontent.com/radareorg/iaito/master/src/img/iaito-circle.svg?sanitize=true" height="30"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/GDB_Archer_Fish_by_Andreas_Arnez.svg/180px-GDB_Archer_Fish_by_Andreas_Arnez.svg.png" height="30" /> <img src = "https://hex-rays.com/wp-content/themes/hx2021/dist/img/logo.svg" height = "30" /><br><br>
