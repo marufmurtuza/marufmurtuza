@@ -116,7 +116,7 @@ __And many more...__
 <h2>📊 Stats</h2>
 
 <p align="center">
-<a href="https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&bg_color=0c0a10&color=99d1ce&line=99d1ce&point=00ff80&area=true&hide_border=true" height = "100"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&bg_color=0c0a10&color=99d1ce&line=99d1ce&point=00ff80&area=true&hide_border=true"/></a> 
+<a href="https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&bg_color=0c0a10&color=99d1ce&line=99d1ce&point=00ff80&area=true&hide_border=true" height = "100" width = "50"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&bg_color=0c0a10&color=99d1ce&line=99d1ce&point=00ff80&area=true&hide_border=true"/></a> 
 </p>
 
 
