@@ -30,9 +30,9 @@
 
 
 <h2>👩‍💻 Things I Often Use:</h2>
-<p align="center">
+ <div align="center">
 
-__OS:__  
+__Operating Systems:__  
 
 <img src = "https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-1024.png" height="30"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/384px-Manjaro-logo.svg.png?20210414143234" height="30"> <img src = "https://www.kali.org/images/kali-dragon-icon.svg" height="30"> <img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Debian/debian_original.svg" height="30"/> <img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Ubuntu/ubuntu.svg" height="30"> <img src = "https://logos-download.com/wp-content/uploads/2020/06/Apple_Mac_OS_Logo-700x670.png" height = "30" /> <img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Windows/windows.svg" height="30">
 <br><br>
@@ -103,11 +103,12 @@ __Note Keeping:__
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/150px-Notion-logo.svg.png?20220918151013" height = "30" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_Notes_icon.svg/180px-Apple_Notes_icon.svg.png?20220520065014" height = "30" /><br><br>
 __And many more...__
-</p>
+</div>
     
     
 <h2>📊 Github Stats</h2>
  <div align="center">
+  <br><br>
 <img align="center" alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=gotham" /> 
 <br><br>
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=marufmurtuza&theme=gotham" />  
