@@ -91,10 +91,7 @@ __Web Pentest:__
 
 __Forensics:__  
 
-<img src = "https://miro.medium.com/v2/resize:fit:400/1*Ini2Q3kb1xACFMILHrattg.jpeg" height = "30" />
-<img src = "https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" height="30">
-<img src = "https://store-images.s-microsoft.com/image/apps.39430.14179965677555945.4511bc55-f511-4c63-a99c-6ff01f7fb0af.3a6d737d-da45-47ff-b99c-6a9438490a7e" height = "30">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/150px-Wireshark_icon.svg.png?20070521080724" height = "30">
+<img src = "https://miro.medium.com/v2/resize:fit:400/1*Ini2Q3kb1xACFMILHrattg.jpeg" height = "30" /> <img src = "https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" height="30"> <img src = "https://store-images.s-microsoft.com/image/apps.39430.14179965677555945.4511bc55-f511-4c63-a99c-6ff01f7fb0af.3a6d737d-da45-47ff-b99c-6a9438490a7e" height = "30"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/150px-Wireshark_icon.svg.png?20070521080724" height = "30">
 <br><br>
 
 __Android:__  
