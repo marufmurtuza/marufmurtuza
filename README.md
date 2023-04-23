@@ -23,18 +23,12 @@
   
 </div>
 
-<h2></h2>
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=gotham&langs_count=6&layout=compact"> <img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=gotham&langs_count=6&layout=compact" /></a>
- </p>
-
-
 <h2>👩‍💻 Things I Often Use:</h2>
  <div align="center">
 
 __Operating Systems:__  
 
-<img src = "https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-1024.png" height="30"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/384px-Manjaro-logo.svg.png?20210414143234" height="30"> <img src = "https://www.kali.org/images/kali-dragon-icon.svg" height="30"> <img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Debian/debian_original.svg" height="30"/> <img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Ubuntu/ubuntu.svg" height="30"> <img src = "https://logos-download.com/wp-content/uploads/2020/06/Apple_Mac_OS_Logo-700x670.png" height = "30" /> <img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Windows/windows.svg" height="30">
+<img src = "https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-1024.png" height="30"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/384px-Manjaro-logo.svg.png?20210414143234" height="30"> <img src = "https://www.kali.org/images/kali-dragon-icon.svg" height="30"> <img src = "https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/debian-1024.png" height="30"/> <img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Ubuntu/ubuntu.svg" height="30"> <img src = "https://logos-download.com/wp-content/uploads/2020/06/Apple_Mac_OS_Logo-700x670.png" height = "30" /> <img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Windows/windows.svg" height="30">
 <br><br>
 
 __High Level & Scripting:__  
@@ -107,8 +101,10 @@ __And many more...__
     
     
 <h2>📊 Github Stats</h2>
- <div align="center">
-  <br>
+<div align="center">
+<br>
+<img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=gotham&langs_count=6&layout=compact" />
+<br><br>
 <img align="center" alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=gotham" /> 
 <br><br>
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=marufmurtuza&theme=gotham" />  
