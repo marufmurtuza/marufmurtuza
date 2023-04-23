@@ -113,8 +113,7 @@ __And many more...__
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&bg_color=0c0a10&color=99d1ce&line=99d1ce&point=00ff80&area=true&hide_border=true"/></a> 
 
-<p align="center">
-<a href="https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&bg_color=0c0a10&color=99d1ce&line=99d1ce&point=00ff80&area=true&hide_border=true"> 
+ 
 </p>
 
 
