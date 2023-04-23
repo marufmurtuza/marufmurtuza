@@ -48,16 +48,12 @@ __Low Level:__
 <br><br>
 
 __Graphics:__  
+  
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/225px-Qt_logo_neon_2022.svg.png" height="30"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/GTK_logo.svg/180px-GTK_logo.svg.png" height="30"> <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpn1cVu2oXfu2HG_Dkse_cORQ6h6U1UXlYilc2JNJ7IbM3qpjyCX3u0Y7GMaz8ChVM7Xk&usqp=CAU" height="30"><br><br>
 
 __Web:__ 
 
 <img src = "https://github.com/keikomori/icons-badges/raw/master/badges/HTML/html.svg" /> <img src = "https://github.com/keikomori/icons-badges/raw/master/badges/CSS/css.svg" /> <img src = "https://github.com/keikomori/icons-badges/raw/master/badges/PHP/php.svg"> <img src= "https://github.com/keikomori/icons-badges/raw/master/badges/Javascript/js.svg"> <img src = "https://github.com/keikomori/icons-badges/raw/master/badges/React/react.svg"> <img src = "https://github.com/keikomori/icons-badges/raw/master/badges/NodesJS/nodejs.svg" /> <img src = "https://github.com/keikomori/icons-badges/raw/master/icons/WordPress/wordpress.svg" height="30"> <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg_Lm_sQbRgd-Jxd9JK1pXMzzrxFrkIxLE1g&usqp=CAU" height="30"><br><br>
-
-
-
-
-
 
 __Databases:__  
 
@@ -65,7 +61,7 @@ __Databases:__
 
 __IOT:__  
 
-<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Raspberry%20Pi/raspberrypi.svg"> <img src = "https://www.labcenter.com/images/proteus-logo-with-text.png" height = "30" /> <img src = "https://editor.tinkercad.com/assets_fe_1t149hr/js/tinkercad-frontend/assets/images/tinkercad-lockup-color.svg" height = "30" /> <img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Arduino/arduino.svg" height = "30"> <br><br>
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Raspberry%20Pi/raspberrypi.svg"> <img src = "https://www.labcenter.com/images/proteus-logo-with-text.png" height = "30" /> <img src = "[https://editor.tinkercad.com/assets_fe_1t149hr/js/tinkercad-frontend/assets/images/tinkercad-lockup-color.svg](https://api-reader.tinkercad.com/api/images/cbdy6sTzSjf/t725.jpg)" height = "30" /> <img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Arduino/arduino.svg" height = "30"> <br><br>
 
 __Virtualization:__  
 
