@@ -65,7 +65,7 @@ __Databases:__
 
 __IOT:__  
 
-<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Raspberry%20Pi/raspberrypi.svg"> <img src = "https://www.labcenter.com/images/proteus-logo-with-text.png" height = "30" /> <img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Arduino/arduino.svg" height = "30"> <img src = "https://editor.tinkercad.com/assets_fe_1t149hr/js/tinkercad-frontend/assets/images/tinkercad-lockup-color.svg" height = "30" /><br><br>
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Raspberry%20Pi/raspberrypi.svg"> <img src = "https://www.labcenter.com/images/proteus-logo-with-text.png" height = "30" /> <img src = "https://editor.tinkercad.com/assets_fe_1t149hr/js/tinkercad-frontend/assets/images/tinkercad-lockup-color.svg" height = "30" /> <img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Arduino/arduino.svg" height = "30"> <br><br>
 
 __Virtualization:__  
 
