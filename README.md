@@ -29,33 +29,138 @@
  </p>
 
 
-<h2>👩‍💻 Skills</h2>
-
+<h2>👩‍💻 Utilities I Often Use:</h2>
 <p align="center">
-  <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" alt="bash" width="40" height="40"/>
-  <a href="https://www.python.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
-  <a href="https://www.java.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Java/java.png" alt="java" width="40" height="40"/>
-  <a href="https://www.learn-c.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C/c.svg" alt="c" width="40" height="40"/>
-  <a href="https://www.learncpp.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C%20%2B%2B/c.svg" alt="python" width="40" height="40"/>
-  <a href="https://code.visualstudio.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/><br>
-  <a href="https://www.arduino.cc"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Arduino/arduino.png" alt="arduino" width="40" height="40"/>
-  <a href="https://developer.android.com/studio/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Android/android.svg" alt="androidstudio" width="40" height="40"/>
-  <a href="https://www.postgresql.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Postgresql/postgresql.svg" alt="postgresql" width="40" height="40"/>
-  <a href="https://gitlab.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/GitLab/gitlab.svg" alt="gitlab" width="40" height="40"/>
-  <a href="https://ubuntu.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Ubuntu/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
-  <a href="https://debian.org"><img src="https://www.debian.org/logos/openlogo-nd.svg" alt="debian" width="40" height="40"/><br>
-  <a href="https://kali.org"><img src="https://img.icons8.com/color/100/000000/kali-linux.png" alt="kali" width="40" height="40"/>
-  <a href="https://manjaro.org"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" alt="manjaro" width="40" height="40"/>
-  <a href="https://autopsy.com"><img src="https://www.sleuthkit.org/picts/renzik_sm.jpg" alt="autopsy" width="40" height="40"/>
-  <a href="https://rada.re"><img src="https://tryhackme-images.s3.amazonaws.com/room-icons/42a9330f4d6d6b84463cfa30d0563a04.png" alt="radare2" width="40" height="40"/>
-  <a href="cutter.re"><img src="https://cutter.re/assets/images/cutter-small.svg" alt="cutter" width="40" height="40"/>
-  <a href="https://ghidra-sre.org"><img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="ghidra" width="40" height="40"/><br>
-  <a href="https://gnu.org"><img src="https://www.gnu.org/savannah-checkouts/gnu/gdb/images/archer.svg" alt="gdb" width="40" height="40"/>
-  <a href="https://mips.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE1KoDnVtIBvouq3Nc8QQuFvZrItRU1HVl-A&usqp=CAU" alt="mips" width="40" height="40"/> 
-  <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Windows/windows.svg" alt="windows" width="40" height="40"/>
-  <a href="https://www.raspberrypi.org/software/operating-systems"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Raspberry%20Pi/raspberry_pi.svg" alt="raspberrypi" width="40" height="40"/>
-  <a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
-  <a href="https://br.wordpress.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/>
+
+__OS:__  
+
+<img src = "https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-1024.png" height="30">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/384px-Manjaro-logo.svg.png?20210414143234" height="30">
+<img src = "https://www.kali.org/images/kali-dragon-icon.svg" height="30">
+<img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Debian/debian_original.svg" height="30"/>
+<img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Ubuntu/ubuntu.svg" height="30">
+<img src = "https://logos-download.com/wp-content/uploads/2020/06/Apple_Mac_OS_Logo-700x670.png" height = "30" />
+<img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Windows/windows.svg" height="30">
+<br><br>
+
+__High Level & Scripting:__  
+
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Bash/bash.svg">
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Powershell/powershell.svg">
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Python/python.svg">
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Java/java.svg">
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Csharp/csharp.svg">
+<img src = "https://github.com/keikomori/icons-badges/raw/master/icons/C/c.svg" height = "30">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" height = "30">    
+<br><br>
+
+__Low Level:__
+
+<img src = "https://upload.wikimedia.org/wikipedia/commons/6/66/X86.png" height="30">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ARM_logo.svg/714px-ARM_logo.svg.png?20180706162741" height = "30" />
+<img src = "https://upload.wikimedia.org/wikipedia/commons/f/f2/MIPS_Computer_Systems_logo_color.svg" height="30">
+<br><br>
+
+__Graphics:__  
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/225px-Qt_logo_neon_2022.svg.png" height="30">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/GTK_logo.svg/180px-GTK_logo.svg.png" height="30">
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpn1cVu2oXfu2HG_Dkse_cORQ6h6U1UXlYilc2JNJ7IbM3qpjyCX3u0Y7GMaz8ChVM7Xk&usqp=CAU" height="30"><br><br>
+
+__Web:__ 
+
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/HTML/html.svg" />
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/CSS/css.svg" />
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/PHP/php.svg">
+<img src= "https://github.com/keikomori/icons-badges/raw/master/badges/Javascript/js.svg">
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/React/react.svg">
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/NodesJS/nodejs.svg" />
+<img src = "https://github.com/keikomori/icons-badges/raw/master/icons/WordPress/wordpress.svg" height="30">
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg_Lm_sQbRgd-Jxd9JK1pXMzzrxFrkIxLE1g&usqp=CAU" height="30"><br><br>
+
+
+
+
+
+
+__Databases:__  
+
+<img src = "https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg" height="30">
+<img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Postgresql/postgresql.svg" height = "30" /><br><br>
+
+__IOT:__  
+
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Raspberry%20Pi/raspberrypi.svg">
+<img src = "https://www.labcenter.com/images/proteus-logo-with-text.png" height = "30" />
+<img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Arduino/arduino.svg" height = "30">
+<img src = "https://editor.tinkercad.com/assets_fe_1t149hr/js/tinkercad-frontend/assets/images/tinkercad-lockup-color.svg" height = "30" /><br><br>
+
+__Virtualization:__  
+
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/VMware/vmware.svg">
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Docker/docker.svg">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png?20150209215936" height = "30" />
+<img src = "https://www.vectorlogo.zone/logos/qemu/qemu-ar21.png" height = "30 "/><br><br>
+
+__Version Control:__  
+
+<img src = "https://github.com/keikomori/icons-badges/raw/master/icons/Git/git.svg" height="30">
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0Uu0auB-_30X62d-vUYM-jhN4TkqPqgv6A&usqp=CAU" height="30">
+ <img src = "https://github.com/keikomori/icons-badges/raw/master/icons/GitLab/gitlab.svg" height="30"><br><br>
+
+ __Code Editor:__  
+
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/VScode/visualstudio_code.svg">
+<img src = "https://cdn.worldvectorlogo.com/logos/sublime-text.svg" height = "30" /><br><br>
+
+__Reverse Engineering:__
+
+<img src = "https://ghidra-sre.org/images/GHIDRA_1.png" height="30">
+<img src = "https://cutter.re/assets/images/cutter-small.svg" height="30">
+<img src = "https://gitlab.com/uploads/-/system/project/avatar/11904140/kali-radare2.png" height="30">
+<img src = "https://binary.ninja/icons/android-chrome-512x512.png" height = "30"/>
+<img src = "https://raw.githubusercontent.com/radareorg/iaito/master/src/img/iaito-circle.svg?sanitize=true" height="30">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/GDB_Archer_Fish_by_Andreas_Arnez.svg/180px-GDB_Archer_Fish_by_Andreas_Arnez.svg.png" height="30" />
+<img src = "https://hex-rays.com/wp-content/themes/hx2021/dist/img/logo.svg" height = "30" /><br><br>
+
+
+__Expolits:__
+
+<img src = "https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" height = "30">
+<img src = "https://www.exploit-db.com/images/edb-banner-logo-white.png" height = "30" /><br><br>
+
+__Web Pentest:__
+
+<img src = "https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" height = "30" />
+<img src = "https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" height = "30" />
+<img src = "https://user-images.githubusercontent.com/13212227/120111054-49ffc780-c1ab-11eb-974e-e198d53ddb48.png" height = "30" />
+<img src = "https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" height = "30" />
+<img src = "https://www.kali.org/tools/dirbuster/images/dirbuster-logo.svg" height = "30" />
+<img src = "https://www.kali.org/tools/webscarab/images/webscarab-logo.svg" height = "30" />
+<img src = "https://www.kali.org/tools/dirb/images/dirb-logo.svg" height = "30" />
+<img src = "https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" height = "30" />
+<img src = "https://www.kali.org/tools/hydra/images/hydra-logo.svg" height = "30" />
+<br><br>
+
+__Forensics:__  
+
+<img src = "https://miro.medium.com/v2/resize:fit:400/1*Ini2Q3kb1xACFMILHrattg.jpeg" height = "30" />
+<img src = "https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo.svg" height="30">
+<img src = "https://store-images.s-microsoft.com/image/apps.39430.14179965677555945.4511bc55-f511-4c63-a99c-6ff01f7fb0af.3a6d737d-da45-47ff-b99c-6a9438490a7e" height = "30">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/150px-Wireshark_icon.svg.png?20070521080724" height = "30">
+<br><br>
+
+__Android:__  
+
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/AndroidStudio/android_studio.svg">
+<img src = "https://raw.githubusercontent.com/skylot/jadx/master/jadx-gui/src/main/resources/logos/jadx-logo.png" height = "30" />
+<br><br>
+
+__Note Keeping:__  
+
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/150px-Notion-logo.svg.png?20220918151013" height = "30" />
+<img src = "https://seeklogo.com/images/N/notepad-logo-B36F48AC8C-seeklogo.com.png" height = "30" />
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_Notes_icon.svg/180px-Apple_Notes_icon.svg.png?20220520065014" height = "30" /><br><br>
+__And many more...__
 </p>
     
     
@@ -63,6 +168,7 @@
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=marufmurtuza&theme=gotham" alt="marufmurtuza" />
+
 </p>
 
 <h2>📊 Stats</h2>
