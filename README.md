@@ -106,17 +106,15 @@ __And many more...__
 </p>
     
     
-<h2>🔥 Streak Stats</h2>
+<h2>📊 Github Stats</h2>
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=marufmurtuza&theme=gotham" alt="marufmurtuza" />
 
-</p>
-
-<h2>📊 Stats</h2>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&bg_color=0c0a10&color=99d1ce&line=99d1ce&point=00ff80&area=true&hide_border=true"/></a> 
 
 <p align="center">
-<a href="https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&bg_color=0c0a10&color=99d1ce&line=99d1ce&point=00ff80&area=true&hide_border=true" height = "100" width = "50"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&bg_color=0c0a10&color=99d1ce&line=99d1ce&point=00ff80&area=true&hide_border=true"/></a> 
+<a href="https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&bg_color=0c0a10&color=99d1ce&line=99d1ce&point=00ff80&area=true&hide_border=true"> 
 </p>
 
 
