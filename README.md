@@ -29,7 +29,7 @@
  </p>
 
 
-<h2>👩‍💻 Utilities I Often Use:</h2>
+<h2>👩‍💻 Things I Often Use:</h2>
 <p align="center">
 
 __OS:__  
