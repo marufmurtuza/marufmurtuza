@@ -13,6 +13,8 @@
 <a href="https://www.linkedin.com/in/marufmurtuza/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/users/806345024631078953" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/its.marufmurtuza" target="_blank"> <img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+<a href="https://linktr.ee/marufmurtuza" target="_blank"> <img src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white" target="_blank"></a>
+
 </div>
 
 <h2></h2>
