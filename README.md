@@ -108,19 +108,10 @@ __And many more...__
     
 <h2>📊 Github Stats</h2>
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=marufmurtuza&theme=gotham" alt="marufmurtuza" />
+<img alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=gotham" style="float:left;" /> <img src="http://github-readme-streak-stats.herokuapp.com?user=marufmurtuza&theme=gotham" alt="marufmurtuza" style="float:right;" />  
+<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&theme=github-compact&area=true&hide_border=true" /> 
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&bg_color=0c0a10&color=99d1ce&line=99d1ce&point=00ff80&area=true&hide_border=true"/></a> 
-
- 
-</p>
-
-
-<p align="center">
-<a  href="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=radical"> <img alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=gotham" /></a>
   
-</p>
 <h2></h2>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
