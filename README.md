@@ -109,9 +109,9 @@ __And many more...__
 <h2>📊 Github Stats</h2>
  <div align="center">
 <img align="center" alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=gotham" /> 
-
+<br><br>
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=marufmurtuza&theme=gotham" />  
-
+<br><br>
 <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&theme=github-compact&area=true&hide_border=true" /> 
 </div>
   
