@@ -35,7 +35,7 @@ __Operating Systems:__
 
 __High Level & Scripting:__  
 
-<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Bash/bash.svg"> <img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Powershell/powershell.svg"> <img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Python/python.svg"> <img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Java/java.svg"> <img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Csharp/csharp.svg"> <img src = "https://github.com/keikomori/icons-badges/raw/master/icons/C/c.svg" height = "30"> <img src = "https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" /> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" height = "30">    
+<img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Bash/bash.svg"> <img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Powershell/powershell.svg"> <img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Python/python.svg"> <img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Java/java.svg"> <img src = "https://github.com/keikomori/icons-badges/raw/master/badges/Csharp/csharp.svg"> <img src = "https://github.com/keikomori/icons-badges/raw/master/icons/C/c.svg" height = "30"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710" height = "30">    
 <br><br>
 
 __Low Level:__
