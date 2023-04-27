@@ -1,5 +1,5 @@
 <h1 align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header"/>
 <br>
   Hey, It's Maruf here!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -127,5 +127,5 @@ __And many more...__
    <img src="http://www.hackthebox.eu/badge/image/498360" alt="Hack The Box"> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
 
