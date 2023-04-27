@@ -25,7 +25,7 @@
   
 </div>
 
-<h2>👩‍💻 Things I Often Use:</h2>
+<h2>👩‍💻 Things I Often Use</h2>
  <div align="center">
 
 __Operating Systems:__  
