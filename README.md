@@ -105,11 +105,11 @@ __And many more...__
 <h2>📊 Github Stats</h2>
 <div align="center">
 <br>
-<img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=gotham&langs_count=50&layout=compact" />
+<img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=gotham&langs_count=50&layout=compact&count_private=true" />
 <br><br>
 <img align="center" alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=gotham" /> 
 <br><br>
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=marufmurtuza&theme=gotham" />  
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=marufmurtuza&theme=gotham&count_private=true" />  
 <br><br>
 <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&theme=github-compact&area=true&hide_border=true&count_private=false" /> 
 </div>
