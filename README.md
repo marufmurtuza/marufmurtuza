@@ -105,7 +105,7 @@ __And many more...__
 <h2>📊 Github Stats</h2>
 <div align="center">
 <br>
-<img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=gotham&langs_count=50&layout=compact&count_private=true" />
+<img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufmurtuza&theme=gotham&langs_count=50&layout=compact&count_private=true&hide_progress=true" />
 <br><br>
 <img align="center" alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=gotham" /> 
 <br><br>
