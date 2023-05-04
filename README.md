@@ -45,7 +45,7 @@ __Low Level:__
 
 __Graphics:__  
   
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/225px-Qt_logo_neon_2022.svg.png" height="30"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/GTK_logo.svg/180px-GTK_logo.svg.png" height="30"> <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpn1cVu2oXfu2HG_Dkse_cORQ6h6U1UXlYilc2JNJ7IbM3qpjyCX3u0Y7GMaz8ChVM7Xk&usqp=CAU" height="30"><br><br>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/225px-Qt_logo_neon_2022.svg.png" height="30"> <img src = "https://www.skillseekho.com/wp-content/uploads/2022/09/tkinter-logo.png" height="30"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/GTK_logo.svg/180px-GTK_logo.svg.png" height="30"> <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpn1cVu2oXfu2HG_Dkse_cORQ6h6U1UXlYilc2JNJ7IbM3qpjyCX3u0Y7GMaz8ChVM7Xk&usqp=CAU" height="30"> <br><br>
 
 __Web:__ 
 
