@@ -26,7 +26,6 @@
 </div>
 
 <h2>👩‍💻 Things I Often Use:</h2>
-<div align="center">
 
 __Operating Systems:__  
 
@@ -55,7 +54,7 @@ __Databases:__
 
 __IOT:__  
 
-<img src = "img/iot/raspberrypi.svg"> <img src = "img/iot/proteus.png" height="30"> <img src = "img/iot/arduino.svg" height="30"> <img src = "img/iot/tinkercad.jpg" height="30"><br><br>
+<img src = "img/iot/raspberrypi.svg"> <img src = "img/iot/proteus.png" height="30"> <img src = "img/iot/arduino.svg" height="30">  <img src = "img/iot/tinkercad.jpg" height="30"><br><br>
 
 __Virtualization:__  
 
@@ -99,8 +98,6 @@ __Note Keeping:__
 
 __And many more...__
 
-
-</div>
     
 
 <h2>📊 Github Stats</h2>
@@ -123,8 +120,7 @@ __And many more...__
 <h2>⭐ Badges</h2>
 
  <div align="center">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/marufmurtuza.png" alt="TryHackMe"><br>
-   <img src="http://www.hackthebox.eu/badge/image/498360" alt="Hack The Box"> 
+   <img src="https://tryhackme-badges.s3.amazonaws.com/marufmurtuza.png" alt="TryHackMe">  <img src="http://www.hackthebox.eu/badge/image/498360" alt="Hack The Box"> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
