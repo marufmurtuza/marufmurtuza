@@ -1,5 +1,5 @@
 <h1 align="center">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header"/>
 <br>
   Hey, It's Maruf here!
   <img src="img/others/handwave.gif" width="28">
@@ -9,10 +9,12 @@
 
 <p align="center">Website: <a href="https://marufmurtuza.com">marufmurtuza.com</a> </p>
 <div align="center">
-<a href="https://twitter.com/marufmurtuza" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marufmurtuza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://discord.com/users/806345024631078953" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="https://www.facebook.com/its.marufmurtuza" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+<!-- <a href="https://twitter.com/marufmurtuza" target="_blank"> <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marufmurtuza/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://discord.com/users/806345024631078953" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://www.facebook.com/its.marufmurtuza" target="_blank"> <img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> -->
+<a href="https://linktr.ee/marufmurtuza" target="_blank"> <img src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=white" target="_blank"></a>
+
 </div>
 
 <h2></h2>
@@ -174,6 +176,7 @@ __And many more...__
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"> <img align="center" src="https://profile-counter.glitch.me/{marufmurtuza}/count.svg" /></p> 
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/{marufmurtuza}/count.svg" /></p> 
 <br></div>
 <h2></h2>
 <h2>⭐ Badges</h2>
@@ -183,5 +186,5 @@ __And many more...__
    <img src="http://www.hackthebox.eu/badge/image/498360" alt="Hack The Box"> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
 
