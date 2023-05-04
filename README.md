@@ -39,7 +39,7 @@ __High Level & Scripting:__
 
 __Low Level:__
 
-<img src = "img/lowlevel/mips.svg" height="30"> <img src = "img/lowlevel/x86.png" height="30"> <img src = "img/lowlevel/arm.png" height="30"> <br><br>
+<img src = "img/lowlevel/mips.svg" height="30"> <img src = "img/lowlevel/X86.png" height="30"> <img src = "img/lowlevel/arm.png" height="30"> <br><br>
 
 __Graphics:__  
 
