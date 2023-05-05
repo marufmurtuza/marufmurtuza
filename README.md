@@ -108,7 +108,7 @@ __And many more...__
 <img align="center" alt="My Activity Graph" src="https://github-readme-stats.vercel.app/api?username=marufmurtuza&count_private=true&show_icons=true&theme=gotham" /> 
 <br><br>
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=marufmurtuza&theme=gotham&count_private=true" />  
-<br><br> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&theme=gotham&area=true&hide_border=true" /> 
+<br><br> <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=marufmurtuza&theme=gotham&area=true&hide_border=true&count_private=true" /> 
 </div>
   
 <h2>🔢 Visitor Count</h2>
