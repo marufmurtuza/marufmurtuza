@@ -7,7 +7,7 @@
 
 <h3 align="center">An infosec enthusiast and tech freak.</h3>
 
-<p align="center">Website: <a href="https://marufmurtuza.com">marufmurtuza.com</a> </p>
+<p align="center">Website: <a href="https://marufmurtuza.github.io">marufmurtuza.github.io</a> </p>
 <div align="center">
 <!-- <a href="https://twitter.com/marufmurtuza" target="_blank"> <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marufmurtuza/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
